@@ -1,2 +1,2 @@
-# CS6405:Datamining_Labs
+# CS6405:Datamining UCC
 Data and code for CS6405 Datamining UCC
